@@ -1,0 +1,18 @@
+C:\Users\usuario\Desktop\ProyectoFinalBios\Logica\bin\Debug\Logica.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\Logica\bin\Debug\Logica.pdb
+C:\Users\usuario\Desktop\ProyectoFinalBios\Logica\bin\Debug\Entidades Compartidas.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\Logica\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\Logica\bin\Debug\Entidades Compartidas.pdb
+C:\Users\usuario\Desktop\ProyectoFinalBios\Logica\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\ProyectoFinalBios\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectoFinalBios\Logica\obj\Debug\Logica.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Logica\bin\Debug\Entidades Compartidas.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Logica\bin\Debug\Entidades Compartidas.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Logica\obj\Debug\Logica.pdb

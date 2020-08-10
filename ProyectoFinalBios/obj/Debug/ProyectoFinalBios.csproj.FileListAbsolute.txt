@@ -1,0 +1,22 @@
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\ProyectoFinalBios.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\ProyectoFinalBios.pdb
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Entidades Compartidas.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Logica.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Persistencia.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Entidades Compartidas.pdb
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Logica.pdb
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Persistencia.pdb
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\obj\Debug\ProyectoFinalBios.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\ProyectoFinalBios\obj\Debug\ProyectoFinalBios.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\ProyectoFinalBios.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\ProyectoFinalBios.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Entidades Compartidas.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Logica.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Persistencia.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Entidades Compartidas.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Logica.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\bin\Persistencia.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\obj\Debug\ProyectoFinalBios.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\obj\Debug\ProyectoFinalBios.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\ProyectoFinalBios\obj\Debug\ProyectoFinalBios.pdb

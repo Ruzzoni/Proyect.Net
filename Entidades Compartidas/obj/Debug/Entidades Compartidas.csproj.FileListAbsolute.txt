@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\ProyectoFinalBios\Entidades Compartidas\bin\Debug\Entidades Compartidas.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\Entidades Compartidas\bin\Debug\Entidades Compartidas.pdb
+C:\Users\usuario\Desktop\ProyectoFinalBios\Entidades Compartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectoFinalBios\Entidades Compartidas\obj\Debug\Entidades Compartidas.dll
+C:\Users\usuario\Desktop\ProyectoFinalBios\Entidades Compartidas\obj\Debug\Entidades Compartidas.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Entidades Compartidas\bin\Debug\Entidades Compartidas.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Entidades Compartidas\bin\Debug\Entidades Compartidas.pdb
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Entidades Compartidas\obj\Debug\Entidades Compartidas.dll
+C:\Users\Administrador\Desktop\ProyectoFinalBios\Entidades Compartidas\obj\Debug\Entidades Compartidas.pdb
